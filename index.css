@@ -1,0 +1,19 @@
+html, body {
+    margin: 5px;
+    padding: 0;
+}
+.box{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+}
+.box-show{
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  border-radius: 50%;
+}
+[v-cloak] {
+  display: none;
+}
